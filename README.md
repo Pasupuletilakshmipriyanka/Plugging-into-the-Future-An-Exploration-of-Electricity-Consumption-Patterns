@@ -1,1 +1,1 @@
-# Plugging-into-the-Future-An-Exploration-of-Electricity-Consumption-Patterns
+This is my internship project for 8th semester
